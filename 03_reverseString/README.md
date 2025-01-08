@@ -11,3 +11,10 @@ You will notice in this exercise that there are multiple tests (in the file `rev
 
 ## Hints
 Strings in JavaScript cannot be reversed directly so you're going to have to split it into something else first.. do the reversal and then join it back together into a string.
+
+##PSUEDOCODE 
+
+GET string 
+SlICE string 
+REVERSE string 
+RETURN reversed string
