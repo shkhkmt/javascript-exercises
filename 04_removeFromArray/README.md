@@ -14,3 +14,12 @@ The first test on this one is fairly easy, but there are a few things to think a
 - how to remove a single element from an array
 - how to deal with multiple optional arguments in a JavaScript function
 - For more information, check out MDN's page on [function arguments](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments) - scroll down to the bit about `Array.from` or the spread operator. You can also check out MDN's page on [rest parameters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters).
+
+## PSEUDOCODE 
+
+CREATE Object containing array and number to be removed. 
+CALL Array from object. 
+ASSIGN Array object to new Array.
+REMOVE parameter given in intial argument from array. 
+RETURN Array with argument removed. 
+
