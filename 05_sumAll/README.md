@@ -15,3 +15,20 @@ Think about how you would do this on pen and paper and then how you might transl
 - loop through the given numbers ([link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration))
 - on each iteration add the number to the sum
 - return the sum after finishing the loop
+
+
+## PSEUDOCODE 
+
+GET input values.
+CREATE output variable. 
+Loop from the first value to the last value.
+ADD each iteration to the sum.
+Return Final value. 
+
+
+sumAll(integerOne, integerTwo) {
+    let output; 
+    for (let i = integerOne; i <= integerTwo, i++){
+        output++
+    }
+}
